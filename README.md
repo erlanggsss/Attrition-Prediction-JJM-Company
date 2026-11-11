@@ -66,7 +66,7 @@ python prediction.py
 Business Dashboard disusun menggunakan **Looker Studio** yang berfungsi untuk mengidentifikasi faktor-faktor yang mempengaruhi **attrition rate** karyawan pada perushaan. Dashboard ini menyediakan visualisai yang komprehensif, sehingga dapat mempermudah HR dalam melakukan monitoring dan pengambilan keputusan untuk menyelesaikan serta mengurangi **attrition rate**.
 
 Link : [Atrittion Analysis Dashboard](https://lookerstudio.google.com/reporting/e0c6f7b4-5174-4dc2-ab59-823c87440497)
-![image](dashboard.jpg.png)
+![image](dashboard.png)
 
 Berikut adalah penjelasan fungsi dari Business Dashboard, antara lain:
 
